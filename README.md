@@ -30,4 +30,4 @@ A real-time chat application built with Java (Spring Boot) for backend and React
 ### 2. Create Room
 <img src="Screenshots/CreateRoom.png" alt="Home Page" height="300px" />
 ### 3. Chat
-![Chat](Screenshots/chat.png)
+<img src="Screenshots/chat.png" alt="Home Page" height="400px" />
