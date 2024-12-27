@@ -23,3 +23,7 @@ A real-time chat application built with Java (Spring Boot) for backend and React
 - **Frontend**:
   - React
   - WebSocket (STOMP integration)
+ 
+## Screenshots
+### 1. Home Page
+![Home Page](Screenshots/HomePage.png)
